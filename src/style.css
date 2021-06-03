@@ -1,0 +1,35 @@
+body{background-color:#333333; 
+font family: arial,hevetica,sans-serif;
+color:white;
+text-align: center;
+line-height: 5em;}
+h1{text-align: center;
+font-family:tahoma;
+letter-spacing:0.2em;
+background-color:black;}
+h2{font-family:tahoma;
+text-align: left;position:relative;
+left:30px;}
+#intro{text-align: left;}
+#cacs{text-align: center;
+position:relative;}
+#yiki{text-align: left;
+font-family:tahoma;
+position:relative;}
+p{line-height:1.5em;
+font-family:tahoma;
+font-style:italic;
+text-transform:uppercase;}
+.more-cacs-info{font family: arial,hevetica,sans-serif;
+color:white;position:relative;
+  left:600px;border:ridge red;
+padding:6px;}
+#fstpic{float:left;}
+h1:hover{background-color:red;}
+p.kusm:hover{color:red;}
+p.blblb:hover{background-color:black;}
+li:hover,li:focus,li:active{background-color:purple;}
+h2:hover{color:red;}
+.importants{color:red;}
+.more-cacs-info:hover{background-color:black;}
+h2,li{letter-spacing:0.2em}
